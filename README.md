@@ -41,11 +41,11 @@ states, texture loading, and physics/render synchronization.
 ## 📸 Screenshots
 
 ### Dice rolling
-![Rolling]<img width="1234" height="1123" alt="Screenshot 2025-12-31 111128" src="https://github.com/user-attachments/assets/0e332c4f-174b-43d0-a4b1-e7a80efea2c3" />
+<img width="1234" height="1123" alt="Screenshot 2025-12-31 111128" src="https://github.com/user-attachments/assets/0e332c4f-174b-43d0-a4b1-e7a80efea2c3" />
 
 
 ### Final result
-![Result]<img width="1236" height="1273" alt="Screenshot 2025-12-31 111207" src="https://github.com/user-attachments/assets/3a847921-031c-42d8-a9e1-0a2068b89da5" />
+<img width="1236" height="1273" alt="Screenshot 2025-12-31 111207" src="https://github.com/user-attachments/assets/3a847921-031c-42d8-a9e1-0a2068b89da5" />
 
 
 ---
