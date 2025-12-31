@@ -38,6 +38,18 @@ states, texture loading, and physics/render synchronization.
 
 ---
 
+## 📸 Screenshots
+
+### Dice rolling
+![Rolling](screenshots/roll-start.png)
+
+### Final result
+![Result](screenshots/roll-result.png)
+
+---
+
+---
+
 ## 🛠 Tech Stack
 
 - **JavaScript (ES Modules)**
