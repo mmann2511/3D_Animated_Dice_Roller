@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Three.js Dice</title>
+
+  <style>
+    body { margin: 0; }
+  </style>
+</head>
+<body>
+  <div id="ui">
+    <button id="add-d6">D6</button>
+    <span id="dice-count">0</span>
+    
+    <button id="roll">Roll</button>
+
+    <div id="result">Click to Roll</div>
+    
+  </div>
+  
+  <style>
+    #ui {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      z-index: 10;
+      color: white;
+      font-family: sans-serif;
+    }
+
+    button {
+      font-size: 18px;
+      margin-right: 10px;
+    }
+  </style>  
+  
+  <script type="module" src="/main.js"></script>
+</body>
+</html>
